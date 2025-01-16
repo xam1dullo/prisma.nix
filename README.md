@@ -1,0 +1,2 @@
+# prisma.nix
+prisma.nix
